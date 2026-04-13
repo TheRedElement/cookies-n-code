@@ -103,7 +103,7 @@ Profiling and Speeding Up Python Code
 Python MCMC
 ...........
 - `Jupyter Notebook and emcee (Caitlin Adams, @caitlinadams) <tutorials/jupyter_notebook_emcee/emcee_notebook.ipynb>`_
-
+- `Tutorial for selection of MCMC Samplers (Agne Semenaite) <tutorials/mcmc_samplers/bayesian_sampling_tutorial.ipynb>`_
 
 Python MPI
 ..........
