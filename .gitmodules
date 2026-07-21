@@ -1,0 +1,3 @@
+[submodule "tutorials/Pandeia-Engine-Tutorial"]
+	path = tutorials/Pandeia-Engine-Tutorial
+	url = https://github.com/daniel-lyon/Pandeia-Engine-Tutorial.git
